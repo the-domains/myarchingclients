@@ -1,0 +1,134 @@
+layout_spectrum: 0.6971431866865421
+typography_spectrum: 0.7017035237909985
+color:
+  brandStrength: 0.1814540433404174
+  lightness: 0.7603776757742767
+  saturation: 0.7255128004503353
+  rhythmicContrast: 0.9004118570071267
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+author:
+  name: Archingstudio.org
+  email: max.lusetti@archingstudio.org
+  url: 'http://archingstudio.org'
+name: COSTUMER
+url: 'https://costumer.myarching.link'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Propertyfinder
+    url: 'http://myarching.link'
+    type: external
+  - name: Trova l'immobile
+    url: 'http://ita.myarching.link/'
+    type: external
+  - name: Our Services
+    id: 078b77e5-a901-46aa-bee5-956be11f3ee8
+    type: content
+  - name: First of all
+    id: db5e566b-b8b2-41be-9df4-d45d9ded36d1
+    type: content
+  - name: Sharing is Caring
+    id: 9e361a9d-c657-45f8-9159-0d447e0a2274
+    type: content
+  - name: We are...
+    id: 66bb9dab-0d6e-413a-9673-f8f2201588aa
+    type: content
+  - name: BLOG MyArching
+    url: 'https://myarching.blogspot.it/'
+    type: external
+title: MyArching Property Highlighter
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHibg1BvD188%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHibg1BvD188&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHibg1BvD188%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/Hibg1BvD188'
+      keywords:
+        - ''
+      related: []
+      author:
+        - name: Max Lusetti
+          url: 'https://www.youtube.com/user/archingstudio1'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: ARCHINGSTUDIO.ORG
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=Hibg1BvD188'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=Hibg1BvD188
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Hibg1BvD188
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/ringo/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: >-
+        Video ufficiale del sito (gestito con licenza wix) per condivisione su
+        altri siti collegati archingstudio. - collegamento a sito Archingstudio
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: per una casa che vale
+purpose:
+  - type: external
+    url: 'https://projects.zoho.com/portal/mradi/'
+    label: Private Project Area - Area Progetti Privata
+  - type: external
+    url: 'https://goo.gl/forms/dWvMy0TabjfFBLaq1'
+    label: Free Consultancy - Prima consulenza
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae300ab4-238f-4baa-8b8d-0050d0f1433a.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/609081fc-6702-4373-bc84-2812aab59b16.jpg
+github: true
+analytics:
+  google: UA-110573235-1
