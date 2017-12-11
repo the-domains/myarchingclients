@@ -132,3 +132,5 @@ favicon: >-
 github: true
 analytics:
   google: UA-110573235-1
+opengraph:
+  appId: 'https://www.facebook.com/MyArchingTeam/'
